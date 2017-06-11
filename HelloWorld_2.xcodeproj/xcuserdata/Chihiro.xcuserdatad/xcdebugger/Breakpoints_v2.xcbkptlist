@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HelloWoeld_2/ViewController.swift"
+            timestampString = "518865993.24979"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "5"
+            endingLineNumber = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HelloWoeld_2.ViewController.__deallocating_deinit"
+                  moduleName = "HelloWoeld_2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Chihiro/Documents/Swift/HelloWoeld_2/HelloWoeld_2/ViewController.swift"
+                  timestampString = "518866457.041191"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HelloWoeld_2.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; HelloWoeld_2.ViewController"
+                  moduleName = "HelloWoeld_2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Chihiro/Documents/Swift/HelloWoeld_2/HelloWoeld_2/ViewController.swift"
+                  timestampString = "518866457.043612"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "118">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HelloWoeld_2.ViewController.__allocating_init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; HelloWoeld_2.ViewController"
+                  moduleName = "HelloWoeld_2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Chihiro/Documents/Swift/HelloWoeld_2/HelloWoeld_2/ViewController.swift"
+                  timestampString = "518866457.045085"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HelloWoeld_2.ViewController.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;HelloWoeld_2.ViewController&gt;"
+                  moduleName = "HelloWoeld_2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Chihiro/Documents/Swift/HelloWoeld_2/HelloWoeld_2/ViewController.swift"
+                  timestampString = "518866457.046639"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HelloWoeld_2.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;HelloWoeld_2.ViewController&gt;"
+                  moduleName = "HelloWoeld_2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Chihiro/Documents/Swift/HelloWoeld_2/HelloWoeld_2/ViewController.swift"
+                  timestampString = "518866457.048108"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "105">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HelloWoeld_2/ViewController.swift"
+            timestampString = "518866001.045029"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "6"
+            endingLineNumber = "6">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HelloWoeld_2.ViewController.__deallocating_deinit"
+                  moduleName = "HelloWoeld_2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Chihiro/Documents/Swift/HelloWoeld_2/HelloWoeld_2/ViewController.swift"
+                  timestampString = "518866457.053979"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HelloWoeld_2.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; HelloWoeld_2.ViewController"
+                  moduleName = "HelloWoeld_2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Chihiro/Documents/Swift/HelloWoeld_2/HelloWoeld_2/ViewController.swift"
+                  timestampString = "518866457.055332"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "118">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HelloWoeld_2.ViewController.__allocating_init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; HelloWoeld_2.ViewController"
+                  moduleName = "HelloWoeld_2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Chihiro/Documents/Swift/HelloWoeld_2/HelloWoeld_2/ViewController.swift"
+                  timestampString = "518866457.056607"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HelloWoeld_2.ViewController.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;HelloWoeld_2.ViewController&gt;"
+                  moduleName = "HelloWoeld_2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Chihiro/Documents/Swift/HelloWoeld_2/HelloWoeld_2/ViewController.swift"
+                  timestampString = "518866457.058336"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HelloWoeld_2.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;HelloWoeld_2.ViewController&gt;"
+                  moduleName = "HelloWoeld_2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Chihiro/Documents/Swift/HelloWoeld_2/HelloWoeld_2/ViewController.swift"
+                  timestampString = "518866457.059696"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "105">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
